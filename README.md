@@ -1,6 +1,5 @@
 ### Name: Kitty-Marleen Kask
 ### UniID: 233054IAAB
-# Kood on neljapäevasest loengust
 
 rb
 wb
